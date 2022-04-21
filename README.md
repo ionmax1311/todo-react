@@ -2,4 +2,4 @@
 
 https://ionmax1311.github.io/todo-react/build/
 
-## **reactjs + material-ui**
+## **reactjs + mobx + material-ui**
